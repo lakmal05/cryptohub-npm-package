@@ -1,0 +1,17 @@
+{
+  "name": "cryptohub",
+  "version": "1.0.2",
+  "description": "Combining \"Crypto,\" \"Node,\" and \"ASCII\" to  indicate a Secure Hub for Cryptographic Operations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptohub",
+    " crypto",
+    "encrypt"
+  ],
+  "author": "",
+  "license": "ISC"
+}
