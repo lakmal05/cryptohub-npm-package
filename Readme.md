@@ -1,3 +1,7 @@
+# CryptoHub
+
+`CryptoHub is a JavaScript library that provides functionality for generating crypto IDs and encrypting/decrypting data using ASCII encoding algorithm`
+
 # Installation
 
 `npm i cryptohub`
