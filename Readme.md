@@ -41,4 +41,4 @@ const myDecryptedData = decryptdata(myEncryptedData); //token
 
 # Contribute
 
-If you would like to contribute, you are welcome, Clone repositroy and open pull request
+If you would like to contribute, you are welcome
