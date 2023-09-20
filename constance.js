@@ -1,5 +1,5 @@
 const _HASH =
-  "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789#@%";
+  "abcdef#@%*!12345";
 
 const _CRYPTO =
   "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";

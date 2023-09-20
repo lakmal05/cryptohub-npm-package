@@ -39,6 +39,15 @@ const myEncryptedData = encryptdata("token", "secretKey");
 const myDecryptedData = decryptdata(myEncryptedData); //token
 ```
 
+# Hash Your data
+
+```js
+const myHashedData=hashdata("data")
+
+
+
+
+
 # Contribute
 
 If you would like to contribute, you are welcome
