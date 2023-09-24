@@ -2,7 +2,14 @@
 
 `Goodbye to UUID: Introducing cryptothub — Your Ultimate Crypto-Based Identifier Generator`
 
-`CryptoHub is a JavaScript library that provides functionality for generating crypto IDs and encrypting/decrypting data using ASCII encoding algorithm`
+`CryptoHub is a JavaScript library that provides functionality for generating crypto IDs and encrypting/decrypting and Hashing data using ASCII encoding algorithm`
+
+# Package.json
+
+```js
+ "main": "index.js",
+ "type": "module",// set your moduler type ES or CJS
+```
 
 # Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "cryptohub",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Combining \"Crypto,\" \"Node,\" and \"ASCII\" to  indicate a Secure Hub for Cryptographic Operations",
   "main": "index.js",
   "type": "module",
